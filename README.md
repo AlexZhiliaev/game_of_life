@@ -1,1 +1,1 @@
-Game of life with njit lib.
+Game of life with numba lib.
